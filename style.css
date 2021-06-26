@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+div{
+    margin-top: 15px;
+    }
+
+.section-stlye{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+img{
+    width: 450px;
+    height: 450px;
+    }
